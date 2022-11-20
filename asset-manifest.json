@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/umang-auction/static/css/main.3c785923.css",
-    "main.js": "/umang-auction/static/js/main.7269a4de.js",
+    "main.js": "/umang-auction/static/js/main.d527e771.js",
     "static/media/Artpic_9.png": "/umang-auction/static/media/Artpic_9.f1338f9ad0195be5eb47.png",
     "static/media/Artpic_15.png": "/umang-auction/static/media/Artpic_15.5700fd4a71cbab6a54ff.png",
     "static/media/Artpic_8.png": "/umang-auction/static/media/Artpic_8.cfe4934bae603726026e.png",
@@ -21,10 +21,10 @@
     "static/media/title_pic.png": "/umang-auction/static/media/title_pic.108bf46c0518ad96d969.png",
     "index.html": "/umang-auction/index.html",
     "main.3c785923.css.map": "/umang-auction/static/css/main.3c785923.css.map",
-    "main.7269a4de.js.map": "/umang-auction/static/js/main.7269a4de.js.map"
+    "main.d527e771.js.map": "/umang-auction/static/js/main.d527e771.js.map"
   },
   "entrypoints": [
     "static/css/main.3c785923.css",
-    "static/js/main.7269a4de.js"
+    "static/js/main.d527e771.js"
   ]
 }
